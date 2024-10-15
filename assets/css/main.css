@@ -6,3 +6,8 @@
 img {
 	max-width: 100%;
 }
+
+body>header {
+	padding: 10px;
+	background-color: aqua;
+}
